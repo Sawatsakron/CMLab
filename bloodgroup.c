@@ -5,7 +5,7 @@ void main()
   int i;
   do
   {
-    printf("Why are you gay?\n");
+    printf("Why are you so gay?\n");
     scanf("%s", Name);
     do
     {
@@ -44,5 +44,5 @@ void main()
     printf("\nContinue (YES for Yes)? ");
     scanf("%s", answer);
   } while (strcmp(answer, "YES") == 0);
-  printf("Ambassin\n");
+  printf("Ambassinn\n");
 }
